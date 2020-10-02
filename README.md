@@ -6,7 +6,7 @@
 - ⚒️ 用Java的Coder
 - ✏️没有内容的公众号：书虫无书荒
 - 📝[一个没什么内容的Blog](https://blog.unclezs.com)
-- 📚做了一个凑合的电脑小说工具[Uncle小说](https://github.com/unclezs/NovedlHarvester)
+- 📚做了一个凑合的电脑小说工具[Uncle小说](https://github.com/unclezs/NovelHarvester)
 - 📧我的常用邮箱 1585503310@qq.com
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=unclezs&show_icons=true&theme=tokyonight&hide=contribs,prs)
